@@ -1,0 +1,126 @@
+##--Set directory and Setup--##
+setwd('path/to/data')
+
+##-------Load Packages-------##
+library(ggpubr)
+library(readxl)
+library(ggpubr)
+library(ggthemes)
+library(dplyr)
+library(ggplot2)
+
+exp1 = read.csv('exp1.csv')
+exp2 = read.csv('exp2.csv')
+
+#---Code for Figure 3a---#
+ggplot(exp1, aes(Concentration, Ct)) +
+  geom_smooth(method = lm, color = 'black') +
+  geom_jitter(shape = 21, size = 1, aes(fill = conc)) +
+  stat_cor(aes(label = paste(..rr.label.., sep = "~`,`~"))) +
+  theme_classic() +
+  scale_fill_manual(values=c("#000000", "#e6194B", "#4363d8", "#808000", "#3cb44b", "#ffffff", "yellow")) +
+  facet_wrap(~Media) +
+  scale_x_continuous(breaks = 1:6) +
+  theme(legend.position="none", strip.text = element_text(size=8))
+
+#---Code for Figure 3b---#
+ggplot(exp1, aes(Media, Ct, group = Media)) +
+  geom_boxplot() +
+  geom_jitter(shape = 21, size = 1, aes(fill = conc)) +
+  scale_fill_manual(values=c("#000000", "#e6194B", "#4363d8", "#808000", "#3cb44b", "#ffffff", "yellow")) +
+  theme_classic() +
+  geom_signif(comparisons = comparisons, map_signif_level = function(p)sprintf("P = %.2g", p), test = 't.test', step_increase = 0.1, tip_length = 0, textsize = 2.5, fontface = 'italic') +
+  labs(fill = "Concentration") +
+  guides(fill = guide_legend(reverse = TRUE)) +
+  theme(axis.text.x = element_text(angle = 270, size = 5), legend.title = element_text(size=6), legend.text = element_text(size=6))
+  
+#---Code for Figure 5a---#
+ggplot(exp2, aes(Media, Ct)) +
+  geom_boxplot(outlier.shape = NA, alpha = 0.3, aes(fill = Media)) +
+  geom_jitter(inherit.aes = FALSE, shape = 21, data = subset(exp2, Outlier == "OK"),
+              aes(x = Media, y  = Ct, fill = Media))+
+  geom_jitter(inherit.aes = FALSE, shape = 13, size = 2, data = subset(exp2, Outlier == "Outlier"),
+              aes(x = Media, y  = Ct))+
+  theme_classic() +
+  facet_wrap(~Conc) +
+  scale_fill_manual(values=c("pink", "white")) +
+  theme(legend.position = "None") +
+  #scale_y_continuous(breaks = 10:40) +
+  geom_signif(comparisons = list(c('ACM', 'Swab')), map_signif_level = function(p)sprintf("P = %.2g", p), test = 't.test', fontface = 'italic', textsize = 2)
+
+#---Code for Figure 5b---#
+ggplot(exp2, aes(RH, Ct)) +
+  geom_boxplot(outlier.shape = NA) +
+  geom_jitter(inherit.aes = FALSE, shape = 21, data = subset(exp2, Outlier == "OK"),
+              aes(x = RH, y  = Ct, fill = Media))+
+  geom_jitter(inherit.aes = FALSE, shape = 13, size = 2, data = subset(exp2, Outlier == "Outlier"),
+              aes(x = RH, y  = Ct))+
+  theme_classic() +
+  facet_wrap(~Conc) +
+  theme(legend.position = "None") +
+  scale_fill_manual(values=c("pink", "white")) +
+  theme(axis.text.x = element_text(size = 6, angle = 45, vjust = 1)) +
+  #scale_y_continuous(breaks = 10:40) +
+  geom_signif(comparisons = list(c('40%-60%', '<30%'), c('40%-60%', '>70%')), map_signif_level = function(p)sprintf("P = %.2g", p), test = 't.test', step_increase = 0.06, tip_length = 0.01, fontface = 'italic', textsize = 2)
+  
+#---Code for Figure 5c---#
+ggplot(ptime.figure, aes(Ptime, Ct)) +
+  geom_boxplot(outlier.shape = NA) +
+  geom_jitter(inherit.aes = FALSE, shape = 21, data = subset(ptime.figure, Outlier == "OK"),
+              aes(x = Ptime, y  = Ct, fill = Media))+
+  geom_jitter(inherit.aes = FALSE, shape = 13, size = 2, data = subset(ptime.figure, Outlier == "Outlier"),
+              aes(x = Ptime, y  = Ct))+
+  theme_classic() +
+  #scale_y_continuous(breaks = 10:40) +
+  xlab("Delay in Processing Time") +
+  facet_wrap(~Conc + RH) +
+  theme(legend.position = "None") +
+  theme(axis.text.x = element_text(angle = 45, size = 6)) +
+  scale_x_discrete(labels=c("Immediate" = "No Delay", "24" = "24", "48" = "48", "72" = "72")) +
+  scale_fill_manual(values=c("pink", "white")) +
+  geom_signif(comparisons = list(c('Immediate', '24'), c('Immediate', '48'), c('Immediate', '72')), map_signif_level = function(p)sprintf("P = %.2g", p), test = 't.test', step_increase = 0.05, tip_length = 0, textsize = 2, fontface = 'italic')
+  
+#---Code for Figure 6a-b---#
+ach = c("1ACH", "6ACH")
+
+scientific_10 <- function(x) {
+  parse(text=gsub("e", " %*% 10^", scales::scientific_format()(x)))
+}
+
+for (t in ach){
+  
+  gc.curve = data[grepl(t, data$Group), ]
+  
+  gc.curve$Concentration <- factor(gc.curve$Concentration, levels = c("3.2 gc/L", "32 gc/L", "320 gc/L", "3,200 gc/L", "32,000 gc/L"))
+  
+  ggplot(gc.curve, aes(Minute, Conc, group = Concentration)) +
+    geom_line(aes(color = Concentration)) +
+    theme_calc() +
+    xlab("Elapsed Time (Minutes)") +
+    scale_color_manual(values=c("#3cb44b", "#808000", "#4363d8", "#e6194B", "#000000")) +
+    theme(axis.text.x = element_text(angle = 270)) +
+    theme(legend.title = element_text(size = 6),
+          legend.position = "bottom",
+          legend.direction = "horizontal") +
+    geom_vline(xintercept = 60, linetype = "dashed", size = 0.5, color = "red") +
+    ylab("Estimated Real-Time Concentration (gc/L)") +
+    scale_y_continuous(trans='log10', n.breaks = 12, limits = c(1e-02, 1e4), label=scientific_10) +
+    scale_x_continuous(n.breaks = 15)
+}
+
+#---Code for Figure 6c---#
+gc.curve = data[grepl("Overnight", data$Group), ]
+
+ggplot(gc.curve, aes(Minute, Conc, group = Concentration)) +
+  geom_line(aes(color = Concentration)) +
+  scale_color_manual(values=c("#3cb44b", "#808000", "#4363d8", "#e6194B", "#000000")) +
+  theme_calc() +
+  xlab("Elapsed Time (Minutes)") +
+  theme(axis.text.x = element_text(angle = 270)) +
+  theme(legend.title = element_text(size = 6),
+        legend.position = "bottom",
+        legend.direction = "horizontal") +
+  geom_vline(xintercept = 240, linetype = "dashed", size = .5, color = "red") +
+  ylab("Estimated Real-Time Concentration (gc/L)") +
+  scale_y_continuous(trans='log10', n.breaks = 12, limits = c(1e-11, 1e1), label=scientific_10) +
+  scale_x_continuous(n.breaks = 15)
