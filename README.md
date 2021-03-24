@@ -1,4 +1,4 @@
-# SARS-CoV-2_AerosolSense
+# Evaluation of a Bioaerosol Sampler for Indoor Environmental Surveillance of Severe Acute Respiratory Syndrome Coronavirus 2
 
 This directory contains the data and scripts supporting the claims made in "Evaluation of a Bioaerosol Sampler for Indoor Environmental Surveillance of Severe Acute Respiratory Syndrome Coronavirus 2" 
 
