@@ -1,0 +1,804 @@
+﻿Sample Name,Target Name,Ct,Concentration,Media
+FTA-1-1,N,13.66776848,1,FTA Card
+Flock-1-3,N,13.73407936,1,Flocked Swab
+FTA-1-1,S,13.8456955,1,FTA Card
+ACM-1-4,N,13.88858414,1,ACM
+Glass-1-4,N,13.92268848,1,Glass Fiber Filter
+ACM-1-4,S,13.98614025,1,ACM
+Flock-1-3,S,14.03027344,1,Flocked Swab
+Flock-1-4,S,14.05050468,1,Flocked Swab
+Glass-1-5,N,14.11906338,1,Glass Fiber Filter
+Glass-1-4,S,14.1570673,1,Glass Fiber Filter
+Glass-1-5,S,14.22003174,1,Glass Fiber Filter
+Flock-1-4,N,14.29890728,1,Flocked Swab
+Flock-1-3,ORF1ab,14.51686859,1,Flocked Swab
+Glass-1-5,N,14.55771637,1,Glass Fiber Filter
+Glass-1-2,N,14.60083675,1,Glass Fiber Filter
+Flock-1-4,N,14.64842415,1,Flocked Swab
+Glass-1-2,S,14.70701981,1,Glass Fiber Filter
+Glass-1-2,N,14.74049187,1,Glass Fiber Filter
+Flock-1-4,S,14.76593113,1,Flocked Swab
+Glass-1-2,S,14.79611111,1,Glass Fiber Filter
+Glass-1-5,S,14.81078434,1,Glass Fiber Filter
+ACM-1-4,ORF1ab,14.85276699,1,ACM
+Glass-1-4,ORF1ab,14.90033913,1,Glass Fiber Filter
+FTA-1-1,ORF1ab,14.99380016,1,FTA Card
+Glass-1-5,ORF1ab,15.05438328,1,Glass Fiber Filter
+Glass-1-4,N,15.15614319,1,Glass Fiber Filter
+Glass-1-4,S,15.29889679,1,Glass Fiber Filter
+Glass-1-5,ORF1ab,15.31234169,1,Glass Fiber Filter
+RV-1,ORF1ab,15.35424069,1,Viral Supernatant
+Flock-1-4,ORF1ab,15.37270737,1,Flocked Swab
+Flock-1-4,ORF1ab,15.40130806,1,Flocked Swab
+Cotton-1-1,N,15.407547,1,Cotton
+ACM-1-3,N,15.42259598,1,ACM
+Cotton-1-2,N,15.51471519,1,Cotton
+Glass-1-2,ORF1ab,15.52334976,1,Glass Fiber Filter
+ACM-1-3,S,15.53403473,1,ACM
+ACM-1-1,S,15.53877068,1,ACM
+ACM-1-1,N,15.54493904,1,ACM
+Cotton-1-2,S,15.57264614,1,Cotton
+Glass-1-2,ORF1ab,15.57785225,1,Glass Fiber Filter
+ACM-1-1,S,15.65303135,1,ACM
+RV-1,N,15.67344761,1,Viral Supernatant
+RV-1,S,15.67344761,1,Viral Supernatant
+Flock-1-1,ORF1ab,15.68236732,1,Flocked Swab
+Cotton-1-1,S,15.69924736,1,Cotton
+Cotton-1-2,N,15.70025253,1,Cotton
+Glass-1-4,ORF1ab,15.74805641,1,Glass Fiber Filter
+ACM-1-1,N,15.78958321,1,ACM
+ACM-1-5,N,15.79549885,1,ACM
+Cotton-1-2,S,15.88107395,1,Cotton
+Flock-1-1,S,15.89866257,1,Flocked Swab
+ACM-1-5,S,15.91439819,1,ACM
+ACM-1-3,N,15.92209053,1,ACM
+Flock-1-3,N,15.93959427,1,Flocked Swab
+ACM-1-5,N,15.97305584,1,ACM
+Cotton-1-5,N,16.01833916,1,Cotton
+ACM-1-3,ORF1ab,16.03156281,1,ACM
+Flock-1-1,N,16.06949806,1,Flocked Swab
+Flock-1-3,S,16.10969734,1,Flocked Swab
+ACM-1-5,S,16.13789368,1,ACM
+Cotton-1-5,S,16.16524315,1,Cotton
+FTA-1-5,ORF1ab,16.23839569,1,FTA Card
+FTA-1-5,N,16.29336929,1,FTA Card
+ACM-1-3,S,16.29572105,1,ACM
+ACM-1-1,ORF1ab,16.30394554,1,ACM
+Cotton-1-2,ORF1ab,16.33794212,1,Cotton
+ACM-1-5,ORF1ab,16.34749413,1,ACM
+Flock-1-3,ORF1ab,16.35046959,1,Flocked Swab
+Flock-1-1,S,16.39942169,1,Flocked Swab
+ACM-1-1,ORF1ab,16.49193764,1,ACM
+FTA-1-1,N,16.52930641,1,FTA Card
+ACM-1-5,ORF1ab,16.6157589,1,ACM
+ACM-1-4,N,16.64783287,1,ACM
+Cotton-1-2,ORF1ab,16.65122604,1,Cotton
+RV-1,N,16.66662407,1,Viral Supernatant
+Cotton-1-1,ORF1ab,16.70909691,1,Cotton
+FTA-1-1,S,16.73017311,1,FTA Card
+Cotton-1-5,N,16.73805618,1,Cotton
+ACM-1-3,ORF1ab,16.75192451,1,ACM
+ACM-1-4,S,16.80169868,1,ACM
+Cotton-1-5,ORF1ab,16.8378849,1,Cotton
+Cotton-1-5,S,16.86420059,1,Cotton
+FTA-1-5,S,16.98683548,1,FTA Card
+Cotton-1-1,N,17.04215431,1,Cotton
+FTA-1-1,ORF1ab,17.21427727,1,FTA Card
+ACM-1-4,ORF1ab,17.26929665,1,ACM
+RV-1,S,17.31568475,1,Viral Supernatant
+Cotton-1-1,S,17.35677338,1,Cotton
+FTA-1-5,ORF1ab,17.3664856,1,FTA Card
+RV-1,ORF1ab,17.42746735,1,Viral Supernatant
+FTA-1-2,N,17.60630989,1,FTA Card
+FTA-1-5,N,17.63832664,1,FTA Card
+Cotton-1-1,ORF1ab,17.79859161,1,Cotton
+Cotton-1-5,ORF1ab,17.85221291,1,Cotton
+FTA-1-2,S,17.90411949,1,FTA Card
+FTA-1-5,S,18.19161987,1,FTA Card
+FTA-1-2,N,18.58687782,1,FTA Card
+FTA-1-2,ORF1ab,18.73469543,1,FTA Card
+FTA-1-2,S,18.73487473,1,FTA Card
+FTA-1-2,ORF1ab,19.18609047,1,FTA Card
+Flock-1-1,N,Undetermined,1,Flocked Swab
+Flock-1-1,ORF1ab,Undetermined,1,Flocked Swab
+Cotton-2-3,S,Undetermined,2,Cotton
+ACM-2-1,N,15.37703228,2,ACM
+ACM-2-1,S,16.11923027,2,ACM
+FTA-2-1,N,16.39422989,2,FTA Card
+FTA-2-1,S,16.50406456,2,FTA Card
+ACM-2-1,ORF1ab,16.56586647,2,ACM
+ACM-2-1,N,16.67919731,2,ACM
+ACM-2-1,S,16.83114052,2,ACM
+FTA-2-1,N,17.19117355,2,FTA Card
+FTA-2-1,S,17.22437859,2,FTA Card
+FTA-2-3,ORF1ab,17.2983551,2,FTA Card
+FTA-2-1,ORF1ab,17.36842155,2,FTA Card
+FTA-2-2,N,17.37003517,2,FTA Card
+ACM-2-5,N,17.38088226,2,ACM
+ACM-2-5,N,17.40207481,2,ACM
+FTA-2-3,N,17.42332077,2,FTA Card
+ACM-2-5,S,17.44479179,2,ACM
+RV-2,N,17.52131081,2,Viral Supernatant
+FTA-2-2,S,17.5476265,2,FTA Card
+ACM-2-2,N,17.55246353,2,ACM
+ACM-2-1,ORF1ab,17.58328438,2,ACM
+RV-2,S,17.59135755,2,Viral Supernatant
+FTA-2-3,S,17.59538078,2,FTA Card
+Cotton-2-5,N,17.68560982,2,Cotton
+ACM-2-5,S,17.7005806,2,ACM
+Cotton-2-5,N,17.7198925,2,Cotton
+ACM-2-2,S,17.77546501,2,ACM
+FTA-2-1,ORF1ab,17.78687286,2,FTA Card
+Cotton-2-5,S,17.82696152,2,Cotton
+Flock-2-3,N,17.84435844,2,Flocked Swab
+FTA-2-2,N,17.87192535,2,FTA Card
+FTA-2-2,ORF1ab,17.90197182,2,FTA Card
+Flock-2-1,N,17.91360855,2,Flocked Swab
+Cotton-2-5,S,17.94538498,2,Cotton
+Flock-2-3,S,17.9733696,2,Flocked Swab
+Flock-2-1,S,18.01763344,2,Flocked Swab
+FTA-2-2,S,18.0288353,2,FTA Card
+FTA-2-3,S,18.12251663,2,FTA Card
+Flock-2-1,N,18.12889671,2,Flocked Swab
+Cotton-2-1,N,18.21689796,2,Cotton
+FTA-2-3,ORF1ab,18.24127197,2,FTA Card
+FTA-2-2,ORF1ab,18.2594738,2,FTA Card
+Cotton-2-1,N,18.28898239,2,Cotton
+Cotton-2-1,S,18.30149078,2,Cotton
+Flock-2-1,S,18.30158043,2,Flocked Swab
+Cotton-2-1,S,18.32954216,2,Cotton
+ACM-2-5,ORF1ab,18.40406418,2,ACM
+ACM-2-5,ORF1ab,18.46076775,2,ACM
+Cotton-2-2,N,18.5137043,2,Cotton
+Flock-2-3,ORF1ab,18.67846489,2,Flocked Swab
+Cotton-2-5,ORF1ab,18.67967033,2,Cotton
+RV-2,ORF1ab,18.68127427,2,Viral Supernatant
+ACM-2-2,ORF1ab,18.68410301,2,ACM
+RV-2,N,18.7580471,2,Viral Supernatant
+Cotton-2-2,S,18.76322174,2,Cotton
+Cotton-2-5,ORF1ab,18.8000927,2,Cotton
+FTA-2-3,N,18.80906487,2,FTA Card
+ACM-2-3,N,18.81506729,2,ACM
+Cotton-2-1,ORF1ab,18.81582451,2,Cotton
+Cotton-2-1,ORF1ab,18.8735466,2,Cotton
+ACM-2-3,N,18.9015522,2,ACM
+ACM-2-3,S,18.9395771,2,ACM
+Flock-2-1,ORF1ab,19.01190376,2,Flocked Swab
+Flock-2-1,ORF1ab,19.07091141,2,Flocked Swab
+ACM-2-3,S,19.09464836,2,ACM
+RV-2,ORF1ab,19.13521004,2,Viral Supernatant
+Cotton-2-2,N,19.34547234,2,Cotton
+RV-2,S,19.44937522,2,Viral Supernatant
+Glass-2-1,N,19.51373482,2,Glass Fiber Filter
+Cotton-2-2,S,19.55481339,2,Cotton
+Flock-2-4,N,19.56663132,2,Flocked Swab
+Glass-2-1,S,19.59726143,2,Glass Fiber Filter
+ACM-2-2,N,19.67280769,2,ACM
+Flock-2-4,S,19.69833755,2,Flocked Swab
+ACM-2-2,S,19.78776741,2,ACM
+ACM-2-3,ORF1ab,19.80683136,2,ACM
+Cotton-2-2,ORF1ab,19.87504387,2,Cotton
+Cotton-2-2,ORF1ab,20.00464821,2,Cotton
+ACM-2-3,ORF1ab,20.0093174,2,ACM
+Glass-2-1,ORF1ab,20.1121769,2,Glass Fiber Filter
+Glass-2-1,N,20.156353,2,Glass Fiber Filter
+Flock-2-3,N,20.16930389,2,Flocked Swab
+ACM-2-2,ORF1ab,20.17448235,2,ACM
+Flock-2-3,S,20.24199295,2,Flocked Swab
+Flock-2-4,S,20.25555992,2,Flocked Swab
+Glass-2-1,S,20.25995445,2,Glass Fiber Filter
+Flock-2-4,ORF1ab,20.366436,2,Flocked Swab
+Flock-2-4,N,20.37094688,2,Flocked Swab
+Flock-2-3,ORF1ab,20.47330856,2,Flocked Swab
+Flock-2-4,ORF1ab,20.69833374,2,Flocked Swab
+Glass-2-1,ORF1ab,20.70531273,2,Glass Fiber Filter
+Glass-2-5,N,21.19818687,2,Glass Fiber Filter
+Glass-2-5,S,21.32804489,2,Glass Fiber Filter
+Glass-2-5,N,21.37448502,2,Glass Fiber Filter
+Glass-2-5,S,21.49620628,2,Glass Fiber Filter
+Glass-2-5,ORF1ab,21.92210388,2,Glass Fiber Filter
+Glass-2-5,ORF1ab,22.07452583,2,Glass Fiber Filter
+Cotton-2-3,N,Undetermined,2,Cotton
+Cotton-2-3,N,Undetermined,2,Cotton
+Cotton-2-3,ORF1ab,Undetermined,2,Cotton
+Cotton-2-3,ORF1ab,Undetermined,2,Cotton
+FTA-3-5,ORF1ab,17.19262505,3,FTA Card
+FTA-3-4,ORF1ab,17.59660912,3,FTA Card
+Flock-3-2,N,17.9047966,3,Flocked Swab
+Flock-3-2,ORF1ab,17.94174004,3,Flocked Swab
+FTA-3-5,N,17.95635986,3,FTA Card
+FTA-3-4,N,18.3725605,3,FTA Card
+Flock-3-2,ORF1ab,18.49458885,3,Flocked Swab
+Flock-3-2,N,18.49642372,3,Flocked Swab
+FTA-3-4,ORF1ab,19.20224762,3,FTA Card
+FTA-3-5,ORF1ab,19.56542587,3,FTA Card
+Flock-3-3,ORF1ab,19.57063293,3,Flocked Swab
+FTA-3-1,N,19.70179939,3,FTA Card
+FTA-3-1,ORF1ab,19.71115494,3,FTA Card
+FTA-3-5,S,19.79086685,3,FTA Card
+FTA-3-4,N,19.9682827,3,FTA Card
+Cotton-3-5,ORF1ab,19.98698425,3,Cotton
+FTA-3-4,S,19.99601555,3,FTA Card
+Cotton-3-5,N,20.03363419,3,Cotton
+Flock-3-2,S,20.16144753,3,Flocked Swab
+FTA-3-3,ORF1ab,20.24652672,3,FTA Card
+FTA-3-1,N,20.26427841,3,FTA Card
+FTA-3-1,ORF1ab,20.2843895,3,FTA Card
+FTA-3-5,N,20.39850998,3,FTA Card
+FTA-3-2,ORF1ab,20.54769516,3,FTA Card
+FTA-3-2,N,20.5505352,3,FTA Card
+FTA-3-3,N,20.74074364,3,FTA Card
+FTA-3-3,N,20.75542068,3,FTA Card
+RV-3,N,20.76570511,3,Viral Supernatant
+FTA-3-2,ORF1ab,20.79642105,3,FTA Card
+FTA-3-3,ORF1ab,20.85229492,3,FTA Card
+RV-3,S,20.87746048,3,Viral Supernatant
+FTA-3-2,N,20.98379517,3,FTA Card
+FTA-3-4,S,21.00755692,3,FTA Card
+Cotton-3-2,N,21.01708412,3,Cotton
+Flock-3-2,S,21.02714539,3,Flocked Swab
+RV-3,N,21.04240036,3,Viral Supernatant
+RV-3,S,21.13165474,3,Viral Supernatant
+Flock-3-4,N,21.17054939,3,Flocked Swab
+FTA-3-5,S,21.27903557,3,FTA Card
+FTA-3-1,S,21.3864975,3,FTA Card
+ACM-3-1,N,21.40953827,3,ACM
+Cotton-3-2,S,21.45341873,3,Cotton
+FTA-3-1,S,21.45664787,3,FTA Card
+Cotton-3-5,ORF1ab,21.46344185,3,Cotton
+FTA-3-2,S,21.47709656,3,FTA Card
+Cotton-3-5,S,21.47932625,3,Cotton
+ACM-3-4,N,21.48359299,3,ACM
+Cotton-3-5,N,21.50323677,3,Cotton
+Flock-3-4,S,21.54893112,3,Flocked Swab
+Cotton-3-2,N,21.55259132,3,Cotton
+ACM-3-1,S,21.57480812,3,ACM
+ACM-3-4,N,21.61858177,3,ACM
+FTA-3-2,S,21.63594055,3,FTA Card
+Glass-3-1,N,21.67066193,3,Glass Fiber Filter
+ACM-3-4,S,21.71755981,3,ACM
+Cotton-3-2,S,21.71916389,3,Cotton
+Glass-3-1,S,21.84700012,3,Glass Fiber Filter
+RV-3,ORF1ab,21.84941673,3,Viral Supernatant
+Flock-3-3,ORF1ab,21.95928764,3,Flocked Swab
+ACM-3-4,S,21.96192169,3,ACM
+Cotton-3-5,S,21.99105072,3,Cotton
+FTA-3-3,S,22.05961609,3,FTA Card
+Flock-3-5,ORF1ab,22.12072945,3,Flocked Swab
+Flock-3-4,S,22.12546921,3,Flocked Swab
+ACM-3-1,ORF1ab,22.12561417,3,ACM
+Flock-3-5,N,22.1338253,3,Flocked Swab
+ACM-3-5,N,22.13507843,3,ACM
+Flock-3-4,N,22.1585865,3,Flocked Swab
+RV-3,ORF1ab,22.19334221,3,Viral Supernatant
+Glass-3-1,N,22.2060585,3,Glass Fiber Filter
+Glass-3-1,S,22.2663517,3,Glass Fiber Filter
+Cotton-3-2,ORF1ab,22.2820816,3,Cotton
+Glass-3-2,N,22.29000282,3,Glass Fiber Filter
+Cotton-3-2,ORF1ab,22.33568954,3,Cotton
+Glass-3-2,S,22.34433556,3,Glass Fiber Filter
+Flock-3-5,ORF1ab,22.36839294,3,Flocked Swab
+Flock-3-3,N,22.47058487,3,Flocked Swab
+ACM-3-5,S,22.47375107,3,ACM
+ACM-3-4,ORF1ab,22.52231598,3,ACM
+Flock-3-4,ORF1ab,22.54391289,3,Flocked Swab
+Flock-3-5,S,22.55616379,3,Flocked Swab
+FTA-3-3,S,22.57346535,3,FTA Card
+Glass-3-2,N,22.64829826,3,Glass Fiber Filter
+ACM-3-4,ORF1ab,22.68977737,3,ACM
+Glass-3-2,S,22.7622757,3,Glass Fiber Filter
+Flock-3-5,S,22.77311707,3,Flocked Swab
+ACM-3-3,N,22.77789879,3,ACM
+Glass-3-4,N,22.79909897,3,Glass Fiber Filter
+Flock-3-5,N,22.81527138,3,Flocked Swab
+Glass-3-1,ORF1ab,22.8186512,3,Glass Fiber Filter
+Flock-3-3,S,22.83125305,3,Flocked Swab
+Glass-3-4,S,22.85352898,3,Glass Fiber Filter
+ACM-3-5,N,22.89538383,3,ACM
+Cotton-3-3,N,22.95234871,3,Cotton
+ACM-3-3,S,22.96229744,3,ACM
+Flock-3-4,ORF1ab,22.99987221,3,Flocked Swab
+Cotton-3-3,S,23.00235558,3,Cotton
+Glass-3-1,ORF1ab,23.01250267,3,Glass Fiber Filter
+ACM-3-3,N,23.04374313,3,ACM
+ACM-3-5,S,23.07714653,3,ACM
+Cotton-3-3,N,23.09407997,3,Cotton
+ACM-3-3,S,23.13141251,3,ACM
+Cotton-3-3,S,23.14662743,3,Cotton
+ACM-3-5,ORF1ab,23.14718819,3,ACM
+Flock-3-3,S,23.2369194,3,Flocked Swab
+ACM-3-5,ORF1ab,23.28009796,3,ACM
+Glass-3-2,ORF1ab,23.30807877,3,Glass Fiber Filter
+Glass-3-2,ORF1ab,23.39664268,3,Glass Fiber Filter
+Cotton-3-3,ORF1ab,23.62750626,3,Cotton
+ACM-3-3,ORF1ab,23.75046539,3,ACM
+Cotton-3-3,ORF1ab,23.78230095,3,Cotton
+ACM-3-3,ORF1ab,23.79476738,3,ACM
+ACM-3-1,N,23.80541611,3,ACM
+Glass-3-4,N,23.85708237,3,Glass Fiber Filter
+ACM-3-1,S,23.87234116,3,ACM
+Glass-3-4,ORF1ab,23.90965843,3,Glass Fiber Filter
+Glass-3-4,S,23.94418335,3,Glass Fiber Filter
+Glass-3-5,N,24.28793907,3,Glass Fiber Filter
+Glass-3-5,ORF1ab,24.29711342,3,Glass Fiber Filter
+Glass-3-3,N,24.41812897,3,Glass Fiber Filter
+Glass-3-4,ORF1ab,24.50816154,3,Glass Fiber Filter
+ACM-3-1,ORF1ab,24.58351135,3,ACM
+Glass-3-5,S,24.58727455,3,Glass Fiber Filter
+Glass-3-5,N,24.82844543,3,Glass Fiber Filter
+Glass-3-5,ORF1ab,24.91658401,3,Glass Fiber Filter
+Glass-3-3,ORF1ab,24.94629478,3,Glass Fiber Filter
+Glass-3-3,S,25.15495872,3,Glass Fiber Filter
+Glass-3-5,S,25.54558945,3,Glass Fiber Filter
+Flock-3-3,N,Undetermined,3,Flocked Swab
+Glass-3-3,N,Undetermined,3,Glass Fiber Filter
+Glass-3-3,ORF1ab,Undetermined,3,Glass Fiber Filter
+Glass-3-3,S,Undetermined,3,Glass Fiber Filter
+ACM-4-3,ORF1ab,19.88641357,4,ACM
+ACM-4-3,N,20.00436211,4,ACM
+ACM-4-3,ORF1ab,21.71237755,4,ACM
+ACM-4-2,ORF1ab,21.97152328,4,ACM
+ACM-4-3,S,22.01558113,4,ACM
+ACM-4-3,N,22.16060066,4,ACM
+ACM-4-5,ORF1ab,22.28398895,4,ACM
+Cotton-4-1,ORF1ab,22.38550758,4,Cotton
+ACM-4-5,N,22.47990417,4,ACM
+ACM-4-2,N,22.59374428,4,ACM
+ACM-4-5,N,22.91022301,4,ACM
+ACM-4-5,ORF1ab,22.93788528,4,ACM
+FTA-4-1,ORF1ab,23.12897873,4,FTA Card
+FTA-4-1,N,23.14175797,4,FTA Card
+Cotton-4-1,N,23.24856758,4,Cotton
+Flock-4-3,ORF1ab,23.27044296,4,Flocked Swab
+FTA-4-5,ORF1ab,23.39523506,4,FTA Card
+Flock-4-3,N,23.42364693,4,Flocked Swab
+FTA-4-5,N,23.5758152,4,FTA Card
+FTA-4-1,ORF1ab,23.59537888,4,FTA Card
+ACM-4-3,S,23.59610367,4,ACM
+ACM-4-4,ORF1ab,23.66886139,4,ACM
+Flock-4-5,ORF1ab,23.72900581,4,Flocked Swab
+FTA-4-4,ORF1ab,23.78583717,4,FTA Card
+Flock-4-5,N,23.78883743,4,Flocked Swab
+Flock-4-1,ORF1ab,23.84328461,4,Flocked Swab
+Cotton-4-3,ORF1ab,23.89264297,4,Cotton
+FTA-4-1,N,23.90637589,4,FTA Card
+ACM-4-5,S,23.91927719,4,ACM
+Flock-4-1,ORF1ab,24.05332565,4,Flocked Swab
+FTA-4-4,N,24.05607605,4,FTA Card
+FTA-4-1,S,24.07519531,4,FTA Card
+ACM-4-1,N,24.07650757,4,ACM
+RV-4,ORF1ab,24.0854187,4,Viral Supernatant
+Cotton-4-1,S,24.10276222,4,Cotton
+ACM-4-1,ORF1ab,24.1259346,4,ACM
+Flock-4-5,ORF1ab,24.14141273,4,Flocked Swab
+Flock-4-1,N,24.1588459,4,Flocked Swab
+RV-4,N,24.1844368,4,Viral Supernatant
+ACM-4-4,N,24.18922234,4,ACM
+FTA-4-5,ORF1ab,24.21501732,4,FTA Card
+Flock-4-5,N,24.26758385,4,Flocked Swab
+Flock-4-3,ORF1ab,24.29448509,4,Flocked Swab
+FTA-4-3,ORF1ab,24.30701447,4,FTA Card
+Flock-4-3,N,24.31055832,4,Flocked Swab
+Cotton-4-3,N,24.3188324,4,Cotton
+FTA-4-3,N,24.32923508,4,FTA Card
+Flock-4-1,N,24.37330437,4,Flocked Swab
+ACM-4-5,S,24.38218689,4,ACM
+FTA-4-5,S,24.39113998,4,FTA Card
+Glass-4-2,ORF1ab,24.61673355,4,Glass Fiber Filter
+RV-4,S,24.63149071,4,Viral Supernatant
+Glass-4-2,N,24.64084816,4,Glass Fiber Filter
+FTA-4-4,S,24.64303207,4,FTA Card
+FTA-4-3,ORF1ab,24.67760658,4,FTA Card
+FTA-4-3,N,24.71524239,4,FTA Card
+Flock-4-5,S,24.72882271,4,Flocked Swab
+FTA-4-1,S,24.730299,4,FTA Card
+Flock-4-4,ORF1ab,24.819767,4,Flocked Swab
+FTA-4-4,ORF1ab,24.84189034,4,FTA Card
+Cotton-4-1,ORF1ab,24.86250496,4,Cotton
+Flock-4-3,S,24.86660385,4,Flocked Swab
+Flock-4-2,N,24.86984444,4,Flocked Swab
+ACM-4-2,S,24.87487221,4,ACM
+FTA-4-4,N,24.8950119,4,FTA Card
+Flock-4-5,S,24.89621735,4,Flocked Swab
+Cotton-4-2,N,24.94890976,4,Cotton
+Cotton-4-1,N,24.97470093,4,Cotton
+FTA-4-5,N,24.98337746,4,FTA Card
+RV-4,N,25.00086403,4,Viral Supernatant
+RV-4,ORF1ab,25.00226212,4,Viral Supernatant
+Flock-4-1,S,25.03214645,4,Flocked Swab
+Flock-4-2,N,25.04371262,4,Flocked Swab
+Flock-4-2,ORF1ab,25.04513168,4,Flocked Swab
+Cotton-4-3,S,25.0533886,4,Cotton
+Flock-4-2,ORF1ab,25.05985069,4,Flocked Swab
+Cotton-4-2,ORF1ab,25.0921402,4,Cotton
+Cotton-4-5,N,25.14580345,4,Cotton
+Cotton-4-5,ORF1ab,25.19795227,4,Cotton
+ACM-4-1,S,25.27253723,4,ACM
+Flock-4-1,S,25.27336884,4,Flocked Swab
+FTA-4-4,S,25.30909348,4,FTA Card
+Flock-4-2,S,25.32444191,4,Flocked Swab
+Flock-4-4,N,25.34047318,4,Flocked Swab
+RV-4,S,25.37873077,4,Viral Supernatant
+Cotton-4-4,ORF1ab,25.39101791,4,Cotton
+Flock-4-3,S,25.40269661,4,Flocked Swab
+Cotton-4-1,S,25.41112518,4,Cotton
+FTA-4-5,S,25.43533707,4,FTA Card
+ACM-4-1,S,25.44222832,4,ACM
+Flock-4-2,S,25.4574337,4,Flocked Swab
+Cotton-4-5,N,25.48396492,4,Cotton
+Cotton-4-4,N,25.5273037,4,Cotton
+ACM-4-2,ORF1ab,25.6103344,4,ACM
+Cotton-4-5,ORF1ab,25.70466805,4,Cotton
+ACM-4-2,N,25.74065208,4,ACM
+FTA-4-3,S,25.75120735,4,FTA Card
+FTA-4-3,S,25.80319405,4,FTA Card
+Cotton-4-5,S,25.87015152,4,Cotton
+ACM-4-2,S,26.01293945,4,ACM
+Cotton-4-3,ORF1ab,26.01719475,4,Cotton
+Glass-4-2,S,26.02837753,4,Glass Fiber Filter
+Flock-4-4,S,26.05990791,4,Flocked Swab
+Cotton-4-4,S,26.06022263,4,Cotton
+Cotton-4-3,N,26.13084602,4,Cotton
+Cotton-4-2,S,26.14197159,4,Cotton
+ACM-4-4,S,26.20942688,4,ACM
+Flock-4-4,N,26.38587761,4,Flocked Swab
+Flock-4-4,ORF1ab,26.41058159,4,Flocked Swab
+FTA-4-2,ORF1ab,26.46515083,4,FTA Card
+Cotton-4-3,S,26.48814201,4,Cotton
+Glass-4-2,N,26.49811363,4,Glass Fiber Filter
+Glass-4-2,ORF1ab,26.51937294,4,Glass Fiber Filter
+Flock-4-4,S,26.54782295,4,Flocked Swab
+FTA-4-2,N,26.57282829,4,FTA Card
+ACM-4-4,N,26.58716965,4,ACM
+ACM-4-4,ORF1ab,26.58825684,4,ACM
+Glass-4-4,N,26.66034889,4,Glass Fiber Filter
+Glass-4-2,S,26.7299099,4,Glass Fiber Filter
+ACM-4-4,S,26.74343491,4,ACM
+FTA-4-2,ORF1ab,26.74841881,4,FTA Card
+FTA-4-2,N,26.81179428,4,FTA Card
+Glass-4-4,S,26.82091522,4,Glass Fiber Filter
+Glass-4-1,ORF1ab,26.92373466,4,Glass Fiber Filter
+Glass-4-4,ORF1ab,26.94764137,4,Glass Fiber Filter
+Cotton-4-2,N,26.95517159,4,Cotton
+Cotton-4-2,ORF1ab,26.99358749,4,Cotton
+Cotton-4-2,S,27.06113815,4,Cotton
+FTA-4-2,S,27.26238823,4,FTA Card
+Cotton-4-5,S,27.26728249,4,Cotton
+Glass-4-1,S,27.34490967,4,Glass Fiber Filter
+FTA-4-2,S,27.40959358,4,FTA Card
+Glass-4-1,N,27.42143059,4,Glass Fiber Filter
+Cotton-4-4,ORF1ab,27.51430702,4,Cotton
+Cotton-4-4,N,27.51984024,4,Cotton
+Glass-4-3,S,27.54898643,4,Glass Fiber Filter
+Glass-4-5,N,27.55292892,4,Glass Fiber Filter
+Glass-4-1,S,27.58289909,4,Glass Fiber Filter
+Glass-4-1,N,27.59121513,4,Glass Fiber Filter
+Glass-4-5,S,27.61770439,4,Glass Fiber Filter
+Cotton-4-4,S,27.72432518,4,Cotton
+Glass-4-5,ORF1ab,27.76177025,4,Glass Fiber Filter
+Glass-4-5,S,27.97493553,4,Glass Fiber Filter
+Glass-4-1,ORF1ab,27.97771645,4,Glass Fiber Filter
+Glass-4-3,N,28.03092194,4,Glass Fiber Filter
+Glass-4-5,N,28.1828537,4,Glass Fiber Filter
+Glass-4-5,ORF1ab,28.43000793,4,Glass Fiber Filter
+Glass-4-3,S,28.60702133,4,Glass Fiber Filter
+Glass-4-3,ORF1ab,28.67273331,4,Glass Fiber Filter
+Glass-4-3,N,29.91200829,4,Glass Fiber Filter
+Glass-4-3,ORF1ab,31.39616394,4,Glass Fiber Filter
+Glass-4-4,N,Undetermined,4,Glass Fiber Filter
+Glass-4-4,ORF1ab,Undetermined,4,Glass Fiber Filter
+Glass-4-4,S,Undetermined,4,Glass Fiber Filter
+ACM-4-1,N,Undetermined,4,ACM
+ACM-4-1,ORF1ab,Undetermined,4,ACM
+FTA-5-5,ORF1ab,22.72092628,5,FTA Card
+FTA-5-5,N,22.84609222,5,FTA Card
+ACM-5-3,ORF1ab,23.60622787,5,ACM
+ACM-5-3,N,23.88059998,5,ACM
+FTA-5-5,S,24.0568943,5,FTA Card
+FTA-5-2,ORF1ab,24.06960869,5,FTA Card
+FTA-5-2,N,24.60368347,5,FTA Card
+ACM-5-3,S,24.92634583,5,ACM
+FTA-5-2,ORF1ab,25.12991142,5,FTA Card
+Glass-5-5,N,25.20350456,5,Glass Fiber Filter
+FTA-5-2,N,25.21291542,5,FTA Card
+FTA-5-1,ORF1ab,25.31973457,5,FTA Card
+ACM-5-5,N,25.34252357,5,ACM
+ACM-5-5,ORF1ab,25.39879799,5,ACM
+FTA-5-5,ORF1ab,25.49975967,5,FTA Card
+FTA-5-5,N,25.53397751,5,FTA Card
+Flock-5-5,ORF1ab,25.6978054,5,Flocked Swab
+Flock-5-5,N,25.73655319,5,Flocked Swab
+Flock-5-1,ORF1ab,25.75933266,5,Flocked Swab
+FTA-5-1,N,25.77391243,5,FTA Card
+ACM-5-5,S,25.79209709,5,ACM
+Cotton-5-5,N,25.91760063,5,Cotton
+Cotton-5-5,ORF1ab,25.97512627,5,Cotton
+Glass-5-4,N,26.00929832,5,Glass Fiber Filter
+Flock-5-4,N,26.02388954,5,Flocked Swab
+Flock-5-2,N,26.04002571,5,Flocked Swab
+Flock-5-5,N,26.06122971,5,Flocked Swab
+Flock-5-1,ORF1ab,26.07859802,5,Flocked Swab
+Flock-5-5,ORF1ab,26.08394432,5,Flocked Swab
+Flock-5-4,ORF1ab,26.1240921,5,Flocked Swab
+Cotton-5-4,ORF1ab,26.15418816,5,Cotton
+Cotton-5-4,N,26.22508049,5,Cotton
+Glass-5-3,N,26.24714279,5,Glass Fiber Filter
+Flock-5-1,N,26.26416397,5,Flocked Swab
+Glass-5-4,ORF1ab,26.28226662,5,Glass Fiber Filter
+RV-5,ORF1ab,26.30063629,5,Viral Supernatant
+FTA-5-4,ORF1ab,26.35477829,5,FTA Card
+Flock-5-1,S,26.39413261,5,Flocked Swab
+RV-5,N,26.41726494,5,Viral Supernatant
+Glass-5-4,S,26.44700432,5,Glass Fiber Filter
+FTA-5-3,N,26.44740868,5,FTA Card
+Flock-5-3,ORF1ab,26.47218323,5,Flocked Swab
+FTA-5-1,S,26.47467613,5,FTA Card
+FTA-5-4,N,26.48002052,5,FTA Card
+Flock-5-3,N,26.48291779,5,Flocked Swab
+FTA-5-4,S,26.53794289,5,FTA Card
+Cotton-5-5,S,26.56043625,5,Cotton
+FTA-5-2,S,26.5791111,5,FTA Card
+Flock-5-1,N,26.58915901,5,Flocked Swab
+FTA-5-4,N,26.61377907,5,FTA Card
+FTA-5-5,S,26.62541389,5,FTA Card
+Glass-5-3,ORF1ab,26.64608574,5,Glass Fiber Filter
+Glass-5-3,S,26.65937042,5,Glass Fiber Filter
+FTA-5-4,ORF1ab,26.66702843,5,FTA Card
+RV-5,N,26.68240356,5,Viral Supernatant
+Flock-5-4,S,26.7030983,5,Flocked Swab
+RV-5,ORF1ab,26.70884705,5,Viral Supernatant
+FTA-5-2,S,26.72022438,5,FTA Card
+Flock-5-2,ORF1ab,26.7592659,5,Flocked Swab
+Flock-5-1,S,26.7655201,5,Flocked Swab
+Flock-5-5,S,26.79127884,5,Flocked Swab
+ACM-5-5,N,26.81869507,5,ACM
+ACM-5-5,ORF1ab,26.81923866,5,ACM
+FTA-5-1,ORF1ab,26.82946205,5,FTA Card
+ACM-5-5,S,26.89220238,5,ACM
+FTA-5-3,ORF1ab,26.89616013,5,FTA Card
+Flock-5-3,S,26.92353058,5,Flocked Swab
+ACM-5-1,N,26.92660141,5,ACM
+FTA-5-4,S,26.92815399,5,FTA Card
+Flock-5-5,S,26.93994331,5,Flocked Swab
+Glass-5-2,S,27.01610756,5,Glass Fiber Filter
+RV-5,S,27.02360535,5,Viral Supernatant
+Cotton-5-2,S,27.03923035,5,Cotton
+Glass-5-5,S,27.07406235,5,Glass Fiber Filter
+Glass-5-4,S,27.10406494,5,Glass Fiber Filter
+Cotton-5-1,ORF1ab,27.16632843,5,Cotton
+RV-5,S,27.17020226,5,Viral Supernatant
+Cotton-5-4,S,27.19398689,5,Cotton
+FTA-5-1,N,27.19521713,5,FTA Card
+Cotton-5-5,N,27.21596909,5,Cotton
+FTA-5-3,S,27.22100639,5,FTA Card
+Glass-5-4,N,27.24144745,5,Glass Fiber Filter
+ACM-5-2,N,27.29320526,5,ACM
+ACM-5-1,N,27.31551361,5,ACM
+Glass-5-1,S,27.33205414,5,Glass Fiber Filter
+ACM-5-3,S,27.35062408,5,ACM
+Flock-5-4,N,27.35069275,5,Flocked Swab
+Cotton-5-2,S,27.39457512,5,Cotton
+ACM-5-2,ORF1ab,27.41839027,5,ACM
+Glass-5-1,N,27.45635033,5,Glass Fiber Filter
+Cotton-5-5,S,27.45761108,5,Cotton
+ACM-5-3,N,27.45815468,5,ACM
+Flock-5-4,ORF1ab,27.467062,5,Flocked Swab
+ACM-5-1,S,27.4688015,5,ACM
+FTA-5-1,S,27.47737694,5,FTA Card
+ACM-5-2,S,27.48645782,5,ACM
+Cotton-5-1,S,27.51153183,5,Cotton
+Flock-5-4,S,27.52617264,5,Flocked Swab
+Cotton-5-5,ORF1ab,27.52801514,5,Cotton
+ACM-5-1,ORF1ab,27.54650879,5,ACM
+Cotton-5-3,S,27.55937767,5,Cotton
+Cotton-5-4,N,27.57263374,5,Cotton
+Cotton-5-1,N,27.58953094,5,Cotton
+ACM-5-2,N,27.60687828,5,ACM
+Glass-5-2,N,27.61117554,5,Glass Fiber Filter
+Glass-5-4,ORF1ab,27.6508522,5,Glass Fiber Filter
+Cotton-5-2,ORF1ab,27.67963409,5,Cotton
+Cotton-5-2,N,27.70960808,5,Cotton
+ACM-5-2,ORF1ab,27.7499485,5,ACM
+Cotton-5-4,ORF1ab,27.7711277,5,Cotton
+ACM-5-3,ORF1ab,27.8783226,5,ACM
+Flock-5-2,N,27.88443184,5,Flocked Swab
+Flock-5-2,ORF1ab,27.89216805,5,Flocked Swab
+Glass-5-1,ORF1ab,27.90037727,5,Glass Fiber Filter
+Flock-5-3,S,27.91941452,5,Flocked Swab
+Glass-5-2,S,27.92383766,5,Glass Fiber Filter
+Flock-5-3,N,27.92696571,5,Flocked Swab
+ACM-5-2,S,27.95806122,5,ACM
+Cotton-5-2,ORF1ab,27.99173355,5,Cotton
+Glass-5-3,S,28.03763008,5,Glass Fiber Filter
+Flock-5-3,ORF1ab,28.05872154,5,Flocked Swab
+Flock-5-2,S,28.07496262,5,Flocked Swab
+Cotton-5-4,S,28.09313583,5,Cotton
+FTA-5-3,ORF1ab,28.13065338,5,FTA Card
+Glass-5-1,S,28.16043663,5,Glass Fiber Filter
+FTA-5-3,S,28.29877281,5,FTA Card
+Flock-5-2,S,28.39255905,5,Flocked Swab
+FTA-5-3,N,28.43782234,5,FTA Card
+Glass-5-2,ORF1ab,28.47308159,5,Glass Fiber Filter
+Glass-5-1,N,28.49136925,5,Glass Fiber Filter
+Glass-5-3,N,28.65000343,5,Glass Fiber Filter
+Glass-5-1,ORF1ab,28.77868462,5,Glass Fiber Filter
+Glass-5-5,S,28.92562294,5,Glass Fiber Filter
+Cotton-5-1,S,29.02062416,5,Cotton
+Glass-5-2,N,29.11827469,5,Glass Fiber Filter
+Cotton-5-3,S,29.33259964,5,Cotton
+ACM-5-4,N,29.4503212,5,ACM
+Cotton-5-1,N,29.52409554,5,Cotton
+ACM-5-4,S,29.53790092,5,ACM
+Glass-5-5,N,29.55257416,5,Glass Fiber Filter
+Glass-5-2,ORF1ab,29.56016731,5,Glass Fiber Filter
+Glass-5-3,ORF1ab,29.6071701,5,Glass Fiber Filter
+Cotton-5-3,N,29.62382698,5,Cotton
+ACM-5-4,N,29.74350357,5,ACM
+ACM-5-4,S,29.80336952,5,ACM
+ACM-5-4,ORF1ab,29.87124062,5,ACM
+Cotton-5-3,ORF1ab,29.90243721,5,Cotton
+ACM-5-4,ORF1ab,29.96439171,5,ACM
+Cotton-5-1,ORF1ab,30.1835022,5,Cotton
+Glass-5-5,ORF1ab,30.50203896,5,Glass Fiber Filter
+Cotton-5-2,N,Undetermined,5,Cotton
+Cotton-5-3,N,Undetermined,5,Cotton
+Cotton-5-3,ORF1ab,Undetermined,5,Cotton
+Glass-5-5,ORF1ab,Undetermined,5,Glass Fiber Filter
+ACM-5-1,ORF1ab,Undetermined,5,ACM
+ACM-5-1,S,Undetermined,5,ACM
+FTA-6-3,ORF1ab,Undetermined,6,FTA Card
+Glass-6-5,S,25.26110268,6,Glass Fiber Filter
+Glass-6-5,N,25.48563194,6,Glass Fiber Filter
+ACM-6-4,N,26.39509773,6,ACM
+FTA-6-2,N,26.77496338,6,FTA Card
+FTA-6-2,ORF1ab,26.95526886,6,FTA Card
+Cotton-6-3,N,27.08362389,6,Cotton
+ACM-6-4,ORF1ab,27.08439636,6,ACM
+ACM-6-4,S,27.11140251,6,ACM
+Flock-6-4,S,27.23532295,6,Flocked Swab
+FTA-6-2,S,27.49082756,6,FTA Card
+FTA-6-1,S,27.50590706,6,FTA Card
+ACM-6-5,S,27.55860901,6,ACM
+Glass-6-1,S,27.58069038,6,Glass Fiber Filter
+ACM-6-4,N,27.65802956,6,ACM
+Flock-6-4,N,27.67181015,6,Flocked Swab
+ACM-6-5,N,27.69225502,6,ACM
+ACM-6-4,S,27.69665909,6,ACM
+ACM-6-5,S,27.7932663,6,ACM
+Flock-6-4,ORF1ab,27.84424782,6,Flocked Swab
+FTA-6-1,N,27.94759178,6,FTA Card
+FTA-6-2,S,28.00963402,6,FTA Card
+Glass-6-4,S,28.06002045,6,Glass Fiber Filter
+Glass-6-1,S,28.07903862,6,Glass Fiber Filter
+FTA-6-1,S,28.11612701,6,FTA Card
+Glass-6-4,S,28.12276077,6,Glass Fiber Filter
+FTA-6-2,N,28.1542244,6,FTA Card
+Cotton-6-2,S,28.15753555,6,Cotton
+Glass-6-1,N,28.16657639,6,Glass Fiber Filter
+Flock-6-2,N,28.1911335,6,Flocked Swab
+Cotton-6-3,S,28.19123459,6,Cotton
+Cotton-6-1,S,28.24740601,6,Cotton
+ACM-6-4,ORF1ab,28.2544651,6,ACM
+Cotton-6-1,S,28.25956345,6,Cotton
+ACM-6-5,ORF1ab,28.39113617,6,ACM
+ACM-6-3,S,28.42200279,6,ACM
+Flock-6-1,N,28.42407227,6,Flocked Swab
+Cotton-6-5,S,28.45990562,6,Cotton
+Cotton-6-3,S,28.46283531,6,Cotton
+Flock-6-2,ORF1ab,28.49715424,6,Flocked Swab
+Flock-6-1,ORF1ab,28.53628731,6,Flocked Swab
+ACM-6-5,N,28.55632401,6,ACM
+Flock-6-2,S,28.55742264,6,Flocked Swab
+FTA-6-2,ORF1ab,28.56194496,6,FTA Card
+FTA-6-4,N,28.5721817,6,FTA Card
+Cotton-6-1,N,28.57475281,6,Cotton
+Glass-6-5,S,28.64874458,6,Glass Fiber Filter
+Flock-6-3,N,28.6524353,6,Flocked Swab
+Cotton-6-5,N,28.66615486,6,Cotton
+ACM-6-2,N,28.68906975,6,ACM
+Glass-6-3,S,28.69882584,6,Glass Fiber Filter
+ACM-6-3,S,28.70083427,6,ACM
+Cotton-6-3,N,28.71423721,6,Cotton
+Flock-6-3,S,28.72813606,6,Flocked Swab
+FTA-6-5,S,28.73472595,6,FTA Card
+Cotton-6-2,S,28.73566628,6,Cotton
+Cotton-6-5,ORF1ab,28.76376534,6,Cotton
+ACM-6-1,N,28.76627731,6,ACM
+FTA-6-4,S,28.77192688,6,FTA Card
+FTA-6-1,N,28.79379654,6,FTA Card
+ACM-6-2,ORF1ab,28.80719566,6,ACM
+Glass-6-4,N,28.81611252,6,Glass Fiber Filter
+FTA-6-4,ORF1ab,28.81681252,6,FTA Card
+ACM-6-2,S,28.85544586,6,ACM
+FTA-6-1,ORF1ab,28.90171814,6,FTA Card
+Glass-6-2,S,28.94944572,6,Glass Fiber Filter
+FTA-6-5,N,28.95980453,6,FTA Card
+Glass-6-4,N,29.02051926,6,Glass Fiber Filter
+FTA-6-4,N,29.03084183,6,FTA Card
+FTA-6-4,S,29.03914261,6,FTA Card
+ACM-6-1,N,29.14598846,6,ACM
+Cotton-6-1,N,29.16839027,6,Cotton
+Glass-6-3,S,29.19913483,6,Glass Fiber Filter
+Flock-6-3,ORF1ab,29.21470261,6,Flocked Swab
+ACM-6-1,ORF1ab,29.21575356,6,ACM
+RV-6,N,29.2521553,6,Viral Supernatant
+Cotton-6-2,N,29.28521347,6,Cotton
+ACM-6-3,N,29.3007946,6,ACM
+ACM-6-1,S,29.30282402,6,ACM
+Cotton-6-5,S,29.32123375,6,Cotton
+RV-6,N,29.32951164,6,Viral Supernatant
+ACM-6-1,ORF1ab,29.33721542,6,ACM
+Flock-6-1,N,29.38565445,6,Flocked Swab
+Glass-6-2,N,29.38600349,6,Glass Fiber Filter
+RV-6,ORF1ab,29.38843155,6,Viral Supernatant
+FTA-6-5,S,29.39084244,6,FTA Card
+Flock-6-1,ORF1ab,29.39164352,6,Flocked Swab
+FTA-6-4,ORF1ab,29.41721153,6,FTA Card
+ACM-6-2,S,29.43717766,6,ACM
+Glass-6-5,N,29.4564743,6,Glass Fiber Filter
+Glass-6-3,N,29.48427773,6,Glass Fiber Filter
+RV-6,S,29.49290276,6,Viral Supernatant
+ACM-6-1,S,29.49472427,6,ACM
+RV-6,S,29.50608253,6,Viral Supernatant
+ACM-6-3,N,29.5089016,6,ACM
+Cotton-6-2,N,29.52216911,6,Cotton
+ACM-6-2,N,29.52891922,6,ACM
+FTA-6-1,ORF1ab,29.57061386,6,FTA Card
+ACM-6-5,ORF1ab,29.57932663,6,ACM
+ACM-6-3,ORF1ab,29.6026516,6,ACM
+FTA-6-3,S,29.60767555,6,FTA Card
+RV-6,ORF1ab,29.61136436,6,Viral Supernatant
+Cotton-6-2,ORF1ab,29.62542725,6,Cotton
+Cotton-6-4,S,29.66080666,6,Cotton
+Flock-6-5,ORF1ab,29.66413689,6,Flocked Swab
+Cotton-6-4,S,29.66447067,6,Cotton
+FTA-6-5,N,29.66834068,6,FTA Card
+FTA-6-5,ORF1ab,29.6797905,6,FTA Card
+Cotton-6-3,ORF1ab,29.69471741,6,Cotton
+Cotton-6-1,ORF1ab,29.69857025,6,Cotton
+Flock-6-1,S,29.70264053,6,Flocked Swab
+Cotton-6-5,ORF1ab,29.71279335,6,Cotton
+Glass-6-1,N,29.73323631,6,Glass Fiber Filter
+ACM-6-3,ORF1ab,29.77424622,6,ACM
+Glass-6-3,N,29.77482224,6,Glass Fiber Filter
+Cotton-6-5,N,29.80213737,6,Cotton
+ACM-6-2,ORF1ab,29.8197403,6,ACM
+Flock-6-3,S,29.86003113,6,Flocked Swab
+Cotton-6-3,ORF1ab,29.88092804,6,Cotton
+Flock-6-1,S,29.88472748,6,Flocked Swab
+Cotton-6-4,N,29.89599228,6,Cotton
+FTA-6-5,ORF1ab,29.90567589,6,FTA Card
+Flock-6-5,S,29.95759201,6,Flocked Swab
+Flock-6-3,N,29.98266792,6,Flocked Swab
+Flock-6-5,N,29.98465729,6,Flocked Swab
+Glass-6-4,ORF1ab,30.02260971,6,Glass Fiber Filter
+FTA-6-3,S,30.12505722,6,FTA Card
+Flock-6-2,S,30.17853165,6,Flocked Swab
+Glass-6-2,S,30.27542877,6,Glass Fiber Filter
+Cotton-6-4,N,30.28033638,6,Cotton
+Glass-6-5,ORF1ab,30.35052872,6,Glass Fiber Filter
+Glass-6-2,ORF1ab,30.36718178,6,Glass Fiber Filter
+Flock-6-5,S,30.39535904,6,Flocked Swab
+Cotton-6-4,ORF1ab,30.50271416,6,Cotton
+FTA-6-3,N,30.63178444,6,FTA Card
+Cotton-6-1,ORF1ab,30.63889885,6,Cotton
+Flock-6-5,N,30.65952682,6,Flocked Swab
+Flock-6-2,N,30.68353271,6,Flocked Swab
+Flock-6-3,ORF1ab,30.70097542,6,Flocked Swab
+Cotton-6-2,ORF1ab,30.71130371,6,Cotton
+Glass-6-5,ORF1ab,30.80891609,6,Glass Fiber Filter
+Cotton-6-4,ORF1ab,30.85307312,6,Cotton
+FTA-6-3,N,30.8726635,6,FTA Card
+Glass-6-2,N,30.89043045,6,Glass Fiber Filter
+Glass-6-3,ORF1ab,31.01124573,6,Glass Fiber Filter
+Flock-6-5,ORF1ab,31.08992577,6,Flocked Swab
+Flock-6-2,ORF1ab,31.46053314,6,Flocked Swab
+FTA-6-3,ORF1ab,31.53913116,6,FTA Card
+Glass-6-3,ORF1ab,31.59553146,6,Glass Fiber Filter
+Glass-6-4,ORF1ab,31.96384239,6,Glass Fiber Filter
+Glass-6-2,ORF1ab,32.29069519,6,Glass Fiber Filter
+Glass-6-1,ORF1ab,35.22579193,6,Glass Fiber Filter
+Flock-6-4,N,Undetermined,6,Flocked Swab
+Flock-6-4,ORF1ab,Undetermined,6,Flocked Swab
+Flock-6-4,S,Undetermined,6,Flocked Swab
+Glass-6-1,ORF1ab,Undetermined,6,Glass Fiber Filter
